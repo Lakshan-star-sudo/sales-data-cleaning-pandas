@@ -41,4 +41,4 @@ The dataset contains the following columns:
 The cleaned dataset is exported as `cleaned_sales_dataset.csv`.
 
 ## Author
-Software Engineering Student
+K Lakshan
